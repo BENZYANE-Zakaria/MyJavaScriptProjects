@@ -5,4 +5,3 @@ let myMap = new Map();
 console.log(myObject);
 console.log(myEmptyObject);
 console.log(myMap);
-// comment
